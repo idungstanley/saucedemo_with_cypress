@@ -1,0 +1,27 @@
+{
+  "name": "saucedemo_with_cypress",
+  "version": "1.0.0",
+  "description": "Test Automation with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idungstanley/saucedemo_with_cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idungstanley/saucedemo_with_cypress/issues"
+  },
+  "homepage": "https://github.com/idungstanley/saucedemo_with_cypress#readme",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.2",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5"
+  }
+}
